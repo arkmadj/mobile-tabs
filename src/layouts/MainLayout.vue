@@ -9,6 +9,7 @@
         <q-route-tab icon="home" to="/" exact />
         <q-route-tab icon="mail" to="/mails" exact />
         <q-route-tab icon="alarm" to="/alarms" exact />
+        <q-route-tab icon="person" to="/profile" exact />
       </q-tabs>
     </q-footer>
   </q-layout>
