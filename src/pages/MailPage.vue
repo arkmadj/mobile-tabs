@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <q-icon name="style" size="10em" />
+    <q-icon name="mail" size="10em" color="grey" />
   </q-page>
 </template>
 
