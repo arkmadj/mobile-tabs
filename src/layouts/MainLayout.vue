@@ -6,6 +6,7 @@
 
     <q-footer class="bg-grey-8 text-white"
       ><q-tabs>
+        <q-route-tab icon="home" to="/" exact />
         <q-route-tab icon="mail" to="/mails" exact />
         <q-route-tab icon="alarm" to="/alarms" exact />
       </q-tabs>
